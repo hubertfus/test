@@ -1,0 +1,12 @@
+body{
+  margin: 0;
+  height: calc(var(--vh, 1vh) * 100);
+  display: flex;
+}
+#root{
+  background-color: #F1F1F1;
+  flex: 1;
+}
+a{
+  padding-inline: 10px;
+}
